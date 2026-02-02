@@ -17,4 +17,4 @@ spec:
       - image: devopsprosamples/next-path-sample-2
         name: guestbook-ui
         ports:
-        - containerPort: 80
+        - containerPort: 3000
